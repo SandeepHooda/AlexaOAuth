@@ -19,6 +19,4 @@
     <servlet-name>OauthMasterBedroom</servlet-name>
     <url-pattern>/OauthMasterBedroom</url-pattern>
   </servlet-mapping>
-
-  
 </web-app>
